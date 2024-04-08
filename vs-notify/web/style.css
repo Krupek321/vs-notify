@@ -1,0 +1,28 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.Notifys {
+    display: grid;
+    position: absolute;
+    margin-top: 1%;
+    right: 2%;
+    justify-content: flex-end;
+    align-items: flex-end;
+    gap: 1.5vh;
+    overflow: hidden;
+}
+
+.Notify {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 570;
+    font-size: 1rem;
+    background-color: #0c0a20da;
+    padding: 2vh;
+    color: white;
+    border: 1px solid rgb(190, 190, 190);
+    width: fit-content;
+    border-radius: 3px;
+}
