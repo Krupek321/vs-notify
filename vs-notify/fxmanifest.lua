@@ -22,7 +22,3 @@ files {
     'web/style.css',
     'web/app.js'
 }
-
-escrow_ignore {
-    'config.lua'
-}
